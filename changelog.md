@@ -4,7 +4,7 @@ Captain:    Alisa
 Mate:       Eric
 
 
-Change Log (Newest addition at bottom)
+<h1>Change Log (Newest addition at bottom)</hi>
 ## 2018-01-16 4:00pm Set up Repositories & Create change log
 ## 2018-01-18 3:20pm Add Tooltip - captain
 ## 2018-01-18 3:40pm Add quote display
