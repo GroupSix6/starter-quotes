@@ -6,7 +6,7 @@ Mate:       Eric
 Change Log (Newest addition at bottom)
 ## 2018-01-16 4:00pm
 
-Set up Repositories & Create change log ## 2018-01-16 4:00pm
+## 2018-01-16 4:00pm Set up Repositories & Create change log
 
 Add Tooltip - captain #2018-01-18 3:20pm
 
